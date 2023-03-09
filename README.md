@@ -1,4 +1,4 @@
-# HTML5 塔防游戏
+# HTML5 Tower Defense
 
 
  * Author: oldj
@@ -8,13 +8,13 @@
  * License: MIT
 
 
-## 运行
+## run
 
-进入 `src` 或 `build` 目录，用浏览器（如 Chrome、IE9 ）打开 td.html 即可运行本游戏。
+enter `src` or `build` Directory, with a browser（as Chrome、IE9 ）打开 td.html  to run the game.
 
-或者查看[线上Demo](http://oldj.net/static/html5-tower-defense/td.html)。
+Or check [OnlineDemo](http://oldj.net/static/html5-tower-defense/td.html)。
 
-## 说明
+## illustrate
 
  1. 本游戏完全使用 HTML5 / JavaScript / CSS 实现，没有用到 Flash、SilverLight 等技术。
  2. 这一个版本没有用到图片，游戏中的所有物品都是使用 HTML5 画出来的。
